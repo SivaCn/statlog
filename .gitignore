@@ -1,0 +1,14 @@
+# Generic file exclusion
+*~
+*.un~
+*.pyc
+*.pyo
+*.swp
+
+# Specific file exclusion
+pip-selfcheck.json
+
+# Exclude directories
+bin/
+include/
+lib/
